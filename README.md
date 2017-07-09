@@ -68,7 +68,7 @@ http://www.merchantsite.com/?source=lc
 
 2. Confirmation Page Code
 
-Performance Marketing tracking code is generally placed on the merchant's confirmation (or thank you) page. The process starts with the merchant providing their network parameters/cart information and installing the code on their confirmation page. For a sample of the confirmation page code, please see [the confirmation page order variables code](https://github.com/astgelais/dynamic-affiliate-tracking-code/blob/master/confirmation-page-order-variables.js)
+Performance Marketing tracking code is generally placed on the merchant's confirmation (or thank you) page. The process starts with the merchant providing their network parameters/cart information and installing the code on their confirmation page. For a sample of the confirmation page code, please see [the confirmation page order variables code](https://github.com/astgelais/dynamic-affiliate-tracking-code/blob/master/confirmation-page-order-variables.js) and the [confirmation page code](https://github.com/astgelais/dynamic-affiliate-tracking-code/blob/master/confirmation-page-code.js).
 
 The confirmation page code implements all the typical order variables used in Performance Marketing and provides the option to include product-related information when carts make them available.
 

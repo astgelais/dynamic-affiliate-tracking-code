@@ -15,8 +15,8 @@ Dynamic Affiliate Tracking Code is a robust client-side solution for executing t
   - Tradedoubler
   - ClixGalore
   - ClixGalore UK
-  - iidevaffiliate
-  - sShareASale
+  - idevaffiliate
+  - ShareASale
   - FlexOffers
   - Post Affiliate Pro
   - Webgains
